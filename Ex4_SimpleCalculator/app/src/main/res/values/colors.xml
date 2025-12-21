@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Calculator Theme Colors (Different from Ex3) -->
+    <color name="calculator_primary">#7C3AED</color> <!-- Violet -->
+    <color name="calculator_secondary">#10B981</color> <!-- Emerald -->
+
+    <!-- Operation Colors -->
+    <color name="add_teal">#0D9488</color> <!-- Teal -->
+    <color name="subtract_indigo">#4F46E5</color> <!-- Indigo -->
+    <color name="multiply_amber">#F59E0B</color> <!-- Amber -->
+    <color name="divide_rose">#F43F5E</color> <!-- Rose -->
+    <color name="clear_violet">#7C3AED</color> <!-- Violet -->
+
+    <!-- Result Colors -->
+    <color name="result_success">#059669</color> <!-- Green -->
+    <color name="result_error">#DC2626</color> <!-- Red -->
+
+    <!-- UI Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1F2937</color> <!-- Dark Gray -->
+    <color name="text_secondary">#6B7280</color> <!-- Medium Gray -->
+    <color name="text_light">#9CA3AF</color> <!-- Light Gray -->
+    <color name="text_hint">#D1D5DB</color> <!-- Hint Gray -->
+
+    <!-- Background Colors -->
+    <color name="background_light">#F9FAFB</color>
+</resources>
