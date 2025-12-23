@@ -94,4 +94,17 @@ The application provides a user-friendly interface that allows users to add new 
 - Easy navigation for better user experience
 
 ---
+# Experiment 4 – Simple Calculator App 🧮
+
+- An Android application implementing a basic calculator to perform arithmetic operations.
+- Includes Addition, Subtraction, Multiplication, and Division functionalities.
+
+## Features
+
+- Addition: Adds two user-input numbers and displays the result.
+- Subtraction: Subtracts the second number from the first and displays the result.
+- Multiplication: Multiplies two numbers and shows the output.
+- Division: Divides the first number by the second and displays the quotient.
+
+---
 
