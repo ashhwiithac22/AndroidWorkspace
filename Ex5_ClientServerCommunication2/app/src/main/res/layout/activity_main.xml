@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#667eea">
+
+    <!-- App Title -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="✈️ Travel Booking"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Client-Server Communication"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp" />
+
+    <!-- Services Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Service"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="20dp" />
+
+    <!-- Flights -->
+    <Button
+        android:id="@+id/btnFlight"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="✈️ FLIGHTS"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#2196F3"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="15dp" />
+
+    <!-- Hotels -->
+    <Button
+        android:id="@+id/btnHotel"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="🏨 HOTELS"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#4CAF50"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="15dp" />
+
+    <!-- Trains -->
+    <Button
+        android:id="@+id/btnTrain"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="🚆 TRAINS"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#FF9800"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="15dp" />
+
+    <!-- Buses -->
+    <Button
+        android:id="@+id/btnBus"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="🚌 BUSES"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#F44336"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="40dp" />
+
+    <!-- Test Connection -->
+    <Button
+        android:id="@+id/btnTest"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="🔗 TEST CONNECTION"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="#9C27B0"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="15dp" />
+
+    <!-- About App -->
+    <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="ℹ️ ABOUT APP"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="#607D8B"
+        android:textColor="#FFFFFF" />
+
+    <!-- Footer -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android WebView Communication"
+        android:textSize="14sp"
+        android:textColor="#FFFFFF"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp" />
+
+</LinearLayout>
