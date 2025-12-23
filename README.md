@@ -107,4 +107,19 @@ The application provides a user-friendly interface that allows users to add new 
 - Division: Divides the first number by the second and displays the quotient.
 
 ---
+# Experiment 5 – Travel Booking App ✈️
+- An Android application that demonstrates client-server communication using WebView.
+- Connects to real travel booking websites for Flights, Hotels, Trains, and Buses.
 
+## Features
+- Flights: Connect to MakeMyTrip flights booking website.
+- Hotels: Connect to MakeMyTrip hotels booking website.
+- Trains: Connect to IRCTC railway booking website.
+- Buses: Connect to RedBus bus booking website.
+- Connection Test: Check internet connectivity status.
+- Real Websites: Uses actual booking portals for demonstration.
+
+## Purpose
+Demonstrates how Android apps can communicate with web servers using WebView technology, creating a bridge between mobile apps and web-based services.
+
+--- 
