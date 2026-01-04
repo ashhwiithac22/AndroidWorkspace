@@ -129,6 +129,7 @@ To create a mobile travel booking application that demonstrates client-server co
 - Search hotels/flights
 - Mobile-optimized web content
 
-### ✅ Output
+### Output
 A travel booking app that loads travel websites in WebView, demonstrating client-server communication for hotel/flight bookings.
+
 ---
