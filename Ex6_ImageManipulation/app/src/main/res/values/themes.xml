@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Light Theme -->
+    <style name="Theme.Ex6ImageManipulation" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#4A6FA5</item>
+        <item name="colorPrimaryVariant">#3A5A8C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#66BB6A</item>
+        <item name="colorSecondaryVariant">#4CAF50</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#4A6FA5</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>
